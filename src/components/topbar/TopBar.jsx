@@ -5,7 +5,7 @@ import { BsFillPersonFill } from "react-icons/bs";
 //import { Search, Person, Chat, Notifications } from "@material-ui/icons";
 import { BsSearch } from "react-icons/bs";
 import {IoMdNotifications} from "react-icons/io";
-import { BsFillChatLeftFill } from "react-icons/bs";
+import { BsFillChatLeftTextFill } from "react-icons/bs";
 
 const TopBar = () => {
   return (
