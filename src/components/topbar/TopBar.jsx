@@ -1,11 +1,11 @@
 import "./topbar.css";
 import {Link} from "react-router-dom"
-import {BsFillPersonFill} from "react-icons/bs";
+import { BsFillPersonFill } from "react-icons/bs";
 //import {FaHeart,Search} from "react-icons/fa";
 //import { Search, Person, Chat, Notifications } from "@material-ui/icons";
-import {BsSearch} from "react-icons/bs";
+import { BsSearch } from "react-icons/bs";
 import {IoMdNotifications} from "react-icons/io";
-import {BsFillChatLeftTextFill} from 'react-icons/bs';
+import { BsFillChatLeftFill } from "react-icons/bs";
 
 const TopBar = () => {
   return (
