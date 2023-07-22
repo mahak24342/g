@@ -1,5 +1,5 @@
 import React from 'react'
-import {CgMenuGridR} from "react-icons/cg";
+
 import "./post.css";
 import { Users } from '../../dummyData';
 import { useState } from 'react';
@@ -20,7 +20,7 @@ const Post = ({post}) => {
            <span className="postDate">{post.date}</span>
            </div>
             <div className="postTopRight">
-<CgMenuGridR/>
+
             </div>
         </div>
         <div className="postCenter">
